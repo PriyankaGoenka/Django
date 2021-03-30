@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\myapp",
-    "\\myapp\\migrations"
+    "\\myapp\\migrations",
+    "\\static\\css",
+    "\\Templates\\myapp",
+    "\\website\\__pycache__"
   ],
   "SelectedNode": "\\myapp\\models.py",
   "PreviewInSolutionExplorer": false
